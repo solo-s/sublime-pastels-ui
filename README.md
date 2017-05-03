@@ -18,11 +18,11 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-	git clone https://github.com/e1ectron/pastels-ui/ "Color Scheme - Pastels UI"
+	git clone https://github.com/e1ectron/sublime-pastels-ui/ "Color Scheme - Pastels UI"
 
 ### Download Manually
 
-* Download the last release
+* Download the [last release](https://github.com/e1ectron/sublime-pastels-ui/releases/latest)
 * Unzip the files
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
@@ -48,24 +48,24 @@ You can add additional settings, which make the better view.
 ## Screenshots
 
 ### JavaScript
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/js.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/js.png)
 
 ### CSS
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/css.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/css.png)
 
 ### PHP
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/php.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/php.png)
 
 ### Ruby
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/ruby.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/ruby.png)
 
 ### Python
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/python.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/python.png)
 
 ### Markdown
 
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/markdown.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/markdown.png)
 
 ### GitGutter Support
 
-![](https://raw.githubusercontent.com/e1ectron/pastels-ui/master/screenshots/git-gutter.png)
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/git-gutter.png)

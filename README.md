@@ -1,3 +1,5 @@
+[![Release | 1.0.0](https://img.shields.io/github/release/e1ectron/sublime-pastels-ui.svg)](https://github.com/e1ectron/sublime-pastels-ui/releases/latest)
+
 # Color Scheme - Pastels UI
 
 A Sublime Text color scheme based on defaults color "Pastels on Dark" and Monokai markup.

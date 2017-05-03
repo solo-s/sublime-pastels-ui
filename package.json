@@ -1,0 +1,17 @@
+{
+    "schema_version": "1.0",
+    "packages": [
+        {
+            "name": "Color Scheme - Pastels UI",
+            "author": "E1ectroN",
+            "details": "https://github.com/e1ectron/pastels-ui",
+            "labels": [ "color scheme" ],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/e1ectron/pastels-ui/tags"
+                }
+            ]
+        }
+    ]
+}

@@ -55,6 +55,9 @@ You can add additional settings, which make the better view.
 ### CSS
 ![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/css.png)
 
+### HTML
+![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/html.png)
+
 ### PHP
 ![](https://raw.githubusercontent.com/e1ectron/sublime-pastels-ui/master/screenshots/php.png)
 

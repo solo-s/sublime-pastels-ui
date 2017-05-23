@@ -9,7 +9,7 @@ Scheme is support for SublimeLinter, Git Gutter and a growing number of plugins.
 ## Installation
 
 ### Using Sublime Package Control
-**WARNING**: _Package still waiting for approve, so use [Git](#Using-Git) or [Manual](#Download-Manually) installation_
+**WARNING**: _Package still waiting for approve, so use [Git](#using-git) or [Manual](#download-manually) installation_
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for `Pastels UI` and hit enter
 

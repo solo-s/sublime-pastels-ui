@@ -1,4 +1,5 @@
 [![Release | 1.0.0](https://img.shields.io/github/release/e1ectron/sublime-pastels-ui.svg)](https://github.com/e1ectron/sublime-pastels-ui/releases/latest)
+[![Packagecontrol downloads](https://img.shields.io/packagecontrol/dt/Color%20Scheme%20-%20Pastels%20UI.svg)](https://packagecontrol.io/packages/Color%20Scheme%20-%20Pastels%20UI)
 
 # Color Scheme - Pastels UI
 
@@ -9,7 +10,6 @@ Scheme is support for SublimeLinter, Git Gutter and a growing number of plugins.
 ## Installation
 
 ### Using Sublime Package Control
-**WARNING**: _Package still waiting for approve, so use [Git](#using-git) or [Manual](#download-manually) installation_
 1. Open package control `tools` → `Command Palette` and type `Install Package`
 2. Search for `Pastels UI` and hit enter
 

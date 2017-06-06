@@ -3,9 +3,8 @@
 
 # Color Scheme - Pastels UI
 
-A Sublime Text color scheme based on defaults color "Pastels on Dark" and Monokai markup.
-Looks perfectly with default Adaptive theme.
-Scheme is support for SublimeLinter, Git Gutter and a growing number of plugins.
+A Sublime Text color scheme based on default colors from "Pastels on Dark" with rich markup support like in Monokai. Looks perfectly with default Adaptive theme. 
+Scheme supports SublimeLinter, Git Gutter and a growing number of plugins.
 
 ## Installation
 
